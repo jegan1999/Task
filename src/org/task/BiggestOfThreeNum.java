@@ -3,6 +3,10 @@ package org.task;
 import java.util.Scanner;
 
 public class BiggestOfThreeNum {
+	
+	private void method() {
+		System.out.println("kjgjhgjh");
+	}
 	public static void main(String[] args) {
 		
 		Scanner scan=new Scanner(System.in);
